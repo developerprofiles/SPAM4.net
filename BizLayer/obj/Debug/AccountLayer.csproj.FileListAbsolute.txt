@@ -1,0 +1,9 @@
+D:\sandhya\csharp\SAP\BizLayer\bin\Debug\BizLayer.dll
+D:\sandhya\csharp\SAP\BizLayer\bin\Debug\BizLayer.pdb
+D:\sandhya\csharp\SAP\BizLayer\bin\Debug\Config.dll
+D:\sandhya\csharp\SAP\BizLayer\bin\Debug\DbLayer.dll
+D:\sandhya\csharp\SAP\BizLayer\bin\Debug\Config.pdb
+D:\sandhya\csharp\SAP\BizLayer\bin\Debug\DbLayer.pdb
+D:\sandhya\csharp\SAP\BizLayer\obj\Debug\ResolveAssemblyReference.cache
+D:\sandhya\csharp\SAP\BizLayer\obj\Debug\BizLayer.dll
+D:\sandhya\csharp\SAP\BizLayer\obj\Debug\BizLayer.pdb
